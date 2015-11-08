@@ -1,0 +1,33 @@
+/*body tag css*/
+
+body{
+	margin:0;
+}
+div{
+	width:30%;
+	float:left;
+	background-color:pink;
+	height:700px;
+}
+.first{
+	background-color:red;
+}
+.second{
+	background-color:blue;
+}
+.three{
+	background-color: green;
+}
+
+
+
+
+h2{
+
+		color:blue;
+	}
+	.one{
+		color:red;
+		font-size:50px;
+
+	}
